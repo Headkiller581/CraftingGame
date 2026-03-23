@@ -12,8 +12,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0d0340907ea066e49b31a5fc3525536d, type: 3}
   m_Name: RES_Gold
   m_EditorClassIdentifier: 
-  id: gold
-  icon: {fileID: 21300000, guid: 047413e491b89f947a3f0518d700ef78, type: 3}
-  displayName: Gold
+  id: TradingCoin
+  icon: {fileID: -5442185617712314708, guid: 3d41e3ab1a1daab4b9d0e181656dab30, type: 3}
+  displayName: Trading Coin
   maxStack: 99
-  description: Gold. The more the better.
+  description: Trading coins are your money your life and your soul
