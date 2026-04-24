@@ -13,8 +13,8 @@ MonoBehaviour:
   m_Name: Orange
   m_EditorClassIdentifier: 
   Id: orange
-  DisplayName: Orange
-  Icon: {fileID: 21300000, guid: 047413e491b89f947a3f0518d700ef78, type: 3}
+  DisplayName: Orangensaft
+  Icon: {fileID: 2635574069113494725, guid: e23aaf5927141fc4fade5d48b2ac11b1, type: 3}
   MaxStack: 99
   producer: {fileID: 0}
   tier: 2
@@ -37,4 +37,6 @@ MonoBehaviour:
   equipmentBonusNote: Enter fractional bonuses (e.g., 0.15 = +15%, 1.0 = +100%).
     Speed bonuses multiply duration denominators; luck bonuses multiply chances.
   price: 30
-  description: "Ein gef\xE4rbtes Item."
+  description: 'Ein O-saft
+
+'

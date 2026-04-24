@@ -13,9 +13,9 @@ MonoBehaviour:
   m_Name: Area_Forest
   m_EditorClassIdentifier: 
   id: forageForest
-  displayName: Forest
-  travelDays: 0.1
-  workDays: 0.2
+  displayName: DarkWoodForest
+  travelDays: 0.3
+  workDays: 0.5
   roundTrip: 1
   seasonYieldMul:
   - 2
