@@ -10,15 +10,15 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 30344452f45122149be7ab00dbee6427, type: 3}
-  m_Name: Rot
+  m_Name: Fackel
   m_EditorClassIdentifier: 
   Id: 1
-  DisplayName: Rot
-  Icon: {fileID: 21300000, guid: 338fbb3dccf039942bf569605a759b30, type: 3}
+  DisplayName: Fackel
+  Icon: {fileID: 8577098735323619139, guid: 5d13845049f66af4dbb5f832d7150e7b, type: 3}
   MaxStack: 99
   producer: {fileID: 0}
   tier: 1
-  equippable: 0
+  equippable: 1
   equipmentBonuses:
     travelSpeed: 0
     craftingSpeed: 0
@@ -37,4 +37,4 @@ MonoBehaviour:
   equipmentBonusNote: Enter fractional bonuses (e.g., 0.15 = +15%, 1.0 = +100%).
     Speed bonuses multiply duration denominators; luck bonuses multiply chances.
   price: 15
-  description: "Ein gef\xE4rbtes Item."
+  description: Eine Leuchtene fackel

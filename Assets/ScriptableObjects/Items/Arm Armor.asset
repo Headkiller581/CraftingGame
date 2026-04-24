@@ -37,4 +37,4 @@ MonoBehaviour:
   equipmentBonusNote: Enter fractional bonuses (e.g., 0.15 = +15%, 1.0 = +100%).
     Speed bonuses multiply duration denominators; luck bonuses multiply chances.
   price: 18
-  description: "Ein gef\xE4rbtes Item."
+  description: "Deine arm r\xFCstung"
